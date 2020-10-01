@@ -1,6 +1,6 @@
-# Hello Kafka Producer
+# Hello Kafka Consumer
 
-Springboot + Kafka producer simple example
+Springboot + Kafka consumer simple example
 
 ## Running Zookeper
 
