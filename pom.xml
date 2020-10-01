@@ -56,7 +56,7 @@
 		</dependency>
 		<dependency>
 			<groupId>com.maynar</groupId>
-			<artifactId>rmaynar-model</artifactId>
+			<artifactId>java-data-model</artifactId>
 			<version>1.0</version>
 		</dependency>
 	</dependencies>
